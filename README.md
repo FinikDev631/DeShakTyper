@@ -1,39 +1,39 @@
-# DeShakTyper
-📝 DeShak Typer Editor — Lightweight Code & Text Editor
-DeShak Typer Editor is a clean, fast, and minimalistic editor for writing code or text, built especially for Windows.
-Designed as a simple alternative to heavy IDEs — perfect for quick coding, note-taking, and Python scripting.
+📝 DeShak Typer Editor — лёгкий редактор кода и текста
+DeShak Typer Editor — это простой и быстрый текстовый редактор для Windows с поддержкой Python, вкладок и запуска кода.
+Создан как альтернатива перегруженным IDE — для тех, кто ценит минимализм и удобство.
 
-🚀 Features:
-Python syntax highlighting
+🚀 Возможности:
+Подсветка синтаксиса Python
 
-Multiple tabs for working on several files
+Многооконность (вкладки)
 
-Built-in code runner (for Python)
+Поиск и навигация по тексту
 
-Search and line navigation
+Запуск Python-кода прямо из редактора
 
-Minimal UI — distraction-free experience
+Минималистичный дизайн
 
-Easy setup via installer (Setup.exe)
+Удобная установка через Setup.exe
 
-✅ Perfect for:
-Python learners and beginners
+📦 Установка:
+Скачай установщик: [ссылка на Setup.exe]
 
-Quick scripting and coding tasks
+Запусти — программа установится за пару секунд
 
-Taking notes and writing documentation
+Готово! Можешь начинать кодить
 
-Anyone who needs a simple, clean editor
+💡 Идеально подойдёт для:
+Быстрого написания скриптов
 
-📦 How to Install:
-Download the installer: [insert Setup.exe link here]
+Обучения Python
 
-Run it — setup takes just a few seconds
+Ведение заметок и TODO
 
-Launch and start coding!
+Повседневного программирования
 
-💬 Feedback & Contact:
-Got an idea, question, or bug report?
-Contact us via Email: FinikLTS@gmail.com
+📧 Обратная связь:
+Хочешь предложить идею или нашёл баг?
+Пиши в Telegram: [@DeShakTyper]
+или на почту: FinikLTS@gmail.com
 
 
